@@ -1,1 +1,1 @@
-# C8-Evil-Corp
+An example of a basic platformer (Mario-like) game made with GDevelop.
